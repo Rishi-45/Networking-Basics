@@ -1,6 +1,3 @@
-# Networking-Basics
-# Networking Basic Notes
-
 # Network Sharing(Not that important part)
 
 ## File Sharing on same network
